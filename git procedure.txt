@@ -1,0 +1,13 @@
+git init
+
+git status
+
+git add . (or spesific file)
+
+git commit -m "message"
+
+git remote set-url origin https://github.com/agustian-nurilham/jamujawa.git
+
+git push -u origin //master
+
+git status
